@@ -1,0 +1,36 @@
+body {
+	margin: 100px;
+	background-color: #EAF9F4;
+}
+
+/* Row 1: BUttons area */
+	#buttons-view,
+	#results,
+	#search {
+
+		padding: 5px;
+		
+	}
+
+
+/* Row 2: GIFS & SEARCH */
+	/* Column 1: GIF Dump */
+		#results {
+			display: inline;
+		}
+
+
+	/* Column 2: Search & Button Push */
+		#search {
+			
+		}
+
+		#search-input {
+			width: 300px;
+			padding: 5px;
+			margin-bottom: 10px;
+		}
+
+		.gifTrigger {
+			display: inline;
+		}
